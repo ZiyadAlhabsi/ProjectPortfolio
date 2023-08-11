@@ -1,0 +1,9 @@
+The following Link Contains a dashboard I created using Tableau for further analysis on COVID-19.
+
+It contains Total Deaths per continent, Percent Population infected in the gulf countries, Total cases, Total Deaths, Death Percentage, and Percent population infected per country
+
+Link : https://public.tableau.com/app/profile/ziyad.alhabsi/viz/COVID19-Project_16914961237200/Dashboard1?publish=yes
+
+Note: The data collected for this project was explored and filtered using SQL Server Management Studio 19
+
+Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
