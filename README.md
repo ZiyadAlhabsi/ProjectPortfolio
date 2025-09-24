@@ -64,3 +64,20 @@ Rolling count of people vaccinated.
 
 Percentage of population vaccinated (using CTEs, temp tables, and views).
 
+
+📈 Dashboard & Visualization
+
+The following link contains a Tableau dashboard created for further analysis on Covid-19:
+
+https://public.tableau.com/app/profile/ziyad.alhabsi/viz/COVID19-Project_16914961237200/Dashboard1?publish=yes
+
+This dashboard includes:
+
+Total deaths per continent
+
+Percent population infected in Gulf countries
+
+Total cases, total deaths, and death percentage per country
+
+Percent population infected per country
+
